@@ -9,4 +9,3 @@ files[] = gmap_directions.test
 version = "7.x-1.x-dev"
 core = "7.x"
 project = "examples"
-datestamp = "1405030771"
